@@ -14,10 +14,9 @@ Scope of this project:
 The only development dependency of this project is [Node.js](https://nodejs.org). So just make sure you have it installed.
 Then type few commands known to every Node developer...
 ```
-git clone https://github.com/bradstewart/electron-boilerplate-vue.git
-cd electron-boilerplate-vue
-npm install
-npm start
+git clone https://github.com/szwacz/electron-boilerplate.git
+cd vue-electron
+npm i && npm start
 ```
 ... and boom! You have running desktop application on your screen.
 
